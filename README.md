@@ -1,5 +1,4 @@
-# Text_To_Image
-
+# ImageGenie - Text-to-Image Converter
 
 This project utilizes a stable diffusion model to convert text input into corresponding images. The stable diffusion model is a powerful generative model capable of generating high-quality images from textual descriptions.
 
